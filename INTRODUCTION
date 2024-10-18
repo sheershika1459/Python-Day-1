@@ -1,0 +1,13 @@
+**INTRODUCTION TO PYTHON**
+high-level,dynamic,platform independent
+syntax: print("")
+
+**VARIABLES**
+used to specify memory location.python is a infer language
+example program :
+price of a book=100
+tax=5.4
+total price=price of a book+tax
+print("total price of a book")
+O/P : 105.4
+NOTE: using a variable without assigning leads to error
